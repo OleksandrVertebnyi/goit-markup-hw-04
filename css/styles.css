@@ -332,10 +332,17 @@ margin: 8px 0px;
 .team_ul {
   display: flex;
   justify-content: center;
-  gap: 24px;
-  margin-top: 8px;
+ gap: 24px;
   
 }
+
+.team_li {
+  display: flex;
+  gap: 24px;
+   margin-top: 8px;
+}
+  
+  
 img {
   display: block;
 }
